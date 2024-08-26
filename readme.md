@@ -231,7 +231,7 @@ Yields:
 ```
 
 ## Support
-
+Note: `blockquote`, `paragraph` are just examples of type selectors, not the only types it can selects.
 *   [x] `*` (universal selector)
 *   [x] `,` (multiple selector)
 *   [x] `paragraph` (type selector)
