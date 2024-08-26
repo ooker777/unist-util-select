@@ -231,7 +231,7 @@ Yields:
 ```
 
 ## Support
-Note: `blockquote`, `paragraph` are just examples of type selectors, not the only types it can selects.
+Note: `blockquote`, `paragraph` are just examples of type selectors, not the only types it can selects. See [this full list of node types](https://github.com/syntax-tree/mdast?tab=readme-ov-file#contents) 
 *   [x] `*` (universal selector)
 *   [x] `,` (multiple selector)
 *   [x] `paragraph` (type selector)
